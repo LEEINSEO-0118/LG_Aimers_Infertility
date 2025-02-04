@@ -174,4 +174,4 @@ cython_debug/
 .DS_Store
 
 # Data File
-.Data/
+Data/
